@@ -1,4 +1,4 @@
-# Bubble Sort Algorithm
+# FileSorter using Bubble Sort Algorithm
 
 This repository contains a Java implementation of the FileSorter application in phones using Bubble Sort algorithm, along with a test suite and a benchmark.
 
